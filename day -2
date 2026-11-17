@@ -1,0 +1,11 @@
+                                 control
+                                    |
+          --------------------------------------------------------
+          |                         |                            |
+        conditional               looping                     jumping
+         |                          |                            |
+         |-if                       |-for                        |-continue
+         |-If else                  |-while                      |-break
+         |-else if ladder           |-do while                   |-return 
+         |-nested if
+         |-swtich
